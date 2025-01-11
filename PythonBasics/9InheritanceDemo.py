@@ -42,3 +42,5 @@ obj1.getdept()
 obj2 = DEV("Developer","Kumar",2)
 obj2.getdetails()
 obj2.getdept()
+
+

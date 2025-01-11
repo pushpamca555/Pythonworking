@@ -37,9 +37,10 @@ print(result)
 
 
 # Default Parameter Value
-def add_arg_retu(a =0, b= 1):
+def add_arg_retu(a=0, b=1):
     c = a + b
     return c
+
 
 result1 = add_arg_retu()
 print(result1)
